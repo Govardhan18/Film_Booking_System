@@ -1,0 +1,3 @@
+show_id=36
+movie_title=Interstellar
+theater_name=INOX Movies

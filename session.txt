@@ -1,0 +1,3 @@
+userID=2
+name=Regular User
+role=user
